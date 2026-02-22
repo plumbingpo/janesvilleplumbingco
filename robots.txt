@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://janesvilleplumbingco.com/sitemap.xml
